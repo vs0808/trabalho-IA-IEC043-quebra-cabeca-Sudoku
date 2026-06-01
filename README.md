@@ -45,3 +45,10 @@ sudoku_rna_4x4/
     ├── tabuleiro_inicial.png
     ├── tabuleiro_resolvido.png
     └── curva_treinamento.png
+
+## Membros
+
+Domynique Alexandrina Monteiro de Souza
+João Vitor de Aguiar Ribeiro
+Thales Araújo de Souza
+Vinicius de Souza Menezes
