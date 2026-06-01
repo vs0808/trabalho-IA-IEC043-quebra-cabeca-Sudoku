@@ -21,6 +21,13 @@ Além da implementação do caso 4x4, o projeto também discute as dificuldades 
 - Produz imagens do tabuleiro inicial, do tabuleiro resolvido e da curva de treinamento.
 - Apresenta documentação explicando a estrutura do projeto, o funcionamento do código e as imagens geradas.
 
+## Membros
+
+Domynique Alexandrina Monteiro de Souza
+João Vitor de Aguiar Ribeiro
+Thales Araújo de Souza
+Vinicius de Souza Menezes
+
 ## Estrutura geral
 
 ```text
@@ -46,9 +53,3 @@ sudoku_rna_4x4/
     ├── tabuleiro_resolvido.png
     └── curva_treinamento.png
 
-## Membros
-
-Domynique Alexandrina Monteiro de Souza
-João Vitor de Aguiar Ribeiro
-Thales Araújo de Souza
-Vinicius de Souza Menezes
