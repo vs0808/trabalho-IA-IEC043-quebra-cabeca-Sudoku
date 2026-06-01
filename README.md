@@ -24,8 +24,14 @@ Além da implementação do caso 4x4, o projeto também discute as dificuldades 
 ## Membros
 
 Domynique Alexandrina Monteiro de Souza
+
+
 João Vitor de Aguiar Ribeiro
+
+
 Thales Araújo de Souza
+
+
 Vinicius de Souza Menezes
 
 ## Estrutura geral
